@@ -5,7 +5,7 @@
 **Structure :**   
 1. Data Preprocessing : delete outliers, fill missing values.  
 2. Feature Engeneering : Label Encoding  
-3. Model : Ensemble modeling   
-Stackregressor(0.72)  
-xgboost(0.14)    
-lightgbm(0.14)  
+3. Model : Ensemble modeling:   
+. Stackregressor(0.72)  
+. xgboost(0.14)    
+. lightgbm(0.14)  
