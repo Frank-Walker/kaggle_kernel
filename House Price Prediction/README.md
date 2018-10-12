@@ -1,4 +1,4 @@
-## some details on kernal
+## Basic info about kernal
 **kaggle competition : [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)**  
 **Leaderboard Highest Score : 0.11555(12%)**  
 **Language : python 3.6**  
